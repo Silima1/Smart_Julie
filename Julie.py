@@ -9,7 +9,7 @@ import time as ti
 import random
 
 
-openai.api_key = "Paste your API KEY here"
+openai.api_key = "API VARIABLE"
 
 
 # We define the function that transforms the voice captured in the mic to text
